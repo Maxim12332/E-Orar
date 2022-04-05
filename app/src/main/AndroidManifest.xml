@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.orarbeta">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OrarBeta">
+        <activity
+            android:name=".OrarulSunetelor"
+            android:exported="false" />
+        <activity
+            android:name=".AboutUsActiviti"
+            android:exported="false" />
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".franc02"
+            android:exported="false" />
+        <activity
+            android:name=".fr04"
+            android:exported="false" />
+        <activity
+            android:name=".fr03"
+            android:exported="false" />
+        <activity
+            android:name=".fr01"
+            android:exported="false" />
+        <activity
+            android:name=".geografie01"
+            android:exported="false" />
+        <activity
+            android:name=".istoria03"
+            android:exported="false" />
+        <activity
+            android:name=".istoria02"
+            android:exported="false" />
+        <activity
+            android:name=".istoria01"
+            android:exported="false" />
+        <activity
+            android:name=".chimie01"
+            android:exported="false" />
+        <activity
+            android:name=".bio03"
+            android:exported="false" />
+        <activity
+            android:name=".bio02"
+            android:exported="false" />
+        <activity
+            android:name=".bio01"
+            android:exported="false" />
+        <activity
+            android:name=".info02"
+            android:exported="false" />
+        <activity
+            android:name=".info01"
+            android:exported="false" />
+        <activity
+            android:name=".fizica02"
+            android:exported="false" />
+        <activity
+            android:name=".fizica01"
+            android:exported="false" />
+        <activity
+            android:name=".rom04"
+            android:exported="false" />
+        <activity
+            android:name=".rom03"
+            android:exported="false" />
+        <activity
+            android:name=".rom02"
+            android:exported="false" />
+        <activity
+            android:name=".rom01"
+            android:exported="false" />
+        <activity
+            android:name=".math04"
+            android:exported="false" />
+        <activity
+            android:name=".math03"
+            android:exported="false" />
+        <activity
+            android:name=".math02"
+            android:exported="false" />
+        <activity
+            android:name=".math01"
+            android:exported="false" />
+        <activity
+            android:name=".Eng04"
+            android:exported="false" />
+        <activity
+            android:name=".Eng03"
+            android:exported="false" />
+        <activity
+            android:name=".Eng02"
+            android:exported="false" />
+        <activity
+            android:name=".Eng01"
+            android:exported="false" />
+        <activity
+            android:name=".FrenchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LromActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EngActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChimieActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GeoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhysActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Splashscreen"
+            android:exported="true"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

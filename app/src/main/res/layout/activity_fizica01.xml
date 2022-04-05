@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MathActivity">
+
+
+    <LinearLayout
+        android:id="@+id/mmm"
+        android:layout_width="150dp"
+        android:layout_height="195dp"
+
+
+        android:layout_marginTop="10dp"
+        android:background="@drawable/math_bg"
+        android:orientation="horizontal"
+        android:padding="3dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Luni"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="23dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="1) 12A\n2)6A\n3)-\n4)9A\n5)6B\n6)11A"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/m1"
+        android:layout_width="150dp"
+        android:layout_height="195dp"
+
+
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/math_bg"
+        android:orientation="horizontal"
+        android:padding="3dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Marti"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="23dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="1)10A\n2)-\n3)-\n4)8A\n5)-\n6)12A"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/m2"
+        android:layout_width="150dp"
+        android:layout_height="195dp"
+
+
+        android:layout_marginTop="221dp"
+        android:background="@drawable/math_bg"
+        android:orientation="horizontal"
+        android:padding="3dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Miercuri"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="23dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="1)11A\n2)6B\n3)10A\n4)11A"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/m3"
+        android:layout_width="150dp"
+        android:layout_height="195dp"
+
+
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="221dp"
+        android:background="@drawable/math_bg"
+        android:orientation="horizontal"
+        android:padding="3dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Joi"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="23dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="1)12A\n2)12A\n3)8A\n4)11C\n5)8A"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/m4"
+        android:layout_width="150dp"
+        android:layout_height="195dp"
+
+
+        android:layout_marginTop="435dp"
+
+        android:background="@drawable/math_bg"
+        android:orientation="horizontal"
+        android:padding="3dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Vineri"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="23dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="1)9A\n2)9A\n3)12A\n4)10A\n5)11A"
+                android:textColor="@color/design_default_color_on_primary"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

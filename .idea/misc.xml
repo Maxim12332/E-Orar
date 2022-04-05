@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/background_splashscreen.xml" value="0.2225" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/bio_bg.xml" value="0.259" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/chem_bg.xml" value="0.259" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/eng_bg.xml" value="0.2205" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/french_bg.xml" value="0.2205" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/geo_bg.xml" value="0.259" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/hs_bg.xml" value="0.169" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/inf_bg.xml" value="0.2205" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/math_bg.xml" value="0.259" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/phys_bg.xml" value="0.259" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/drawable/rom_bg.xml" value="0.2205" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_about_us_activiti.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_bio.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_bio01.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_bio02.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_bio03.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_chimie.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_chimie01.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_eng.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_eng01.xml" value="0.27445652173913043" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_eng02.xml" value="0.33" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_eng03.xml" value="0.27445652173913043" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_eng04.xml" value="0.27445652173913043" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_fizica01.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_fizica02.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_fr01.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_fr02.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_fr03.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_fr04.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_fr2.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_franc02.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_french.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_geo.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_geografie01.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_history.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_inf.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_info01.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_info02.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_istoria01.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_istoria02.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_istoria03.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_lrom.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_math.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_math01.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_math02.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_math03.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_math04.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_orarul_sunetelor.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_phys.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_rom01.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_rom02.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_rom03.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_rom04.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/activity_tema_activiti.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/layout/content_fr02.xml" value="0.27717391304347827" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2225" />
+        <entry key="..\:/Users/rurug/AndroidStudioProjects/OrarBeta/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2225" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
